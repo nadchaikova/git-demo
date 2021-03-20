@@ -1,4 +1,4 @@
-Staring in the mirror
+﻿Staring in the mirror
 Watching as the walls are closing in
 A shadow of a figure
 Trying to make the best of the state that I am in
@@ -50,3 +50,4 @@ You might be right sometimes
 I'm too scared to open up
 But it's all I have to give
 This is all I have to give to you
+
